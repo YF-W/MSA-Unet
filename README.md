@@ -10,6 +10,10 @@ In its quest for excellence, MSA-Unet capitalizes on semantic information from v
 
 In conclusion, MSA-Unet emerges as a true trailblazer in the field of segmentation networks, heralding a new era of innovation and excellence. With its daring architecture, feature fusion finesse, and contextual prowess, MSA-Unet redefines the boundaries of medical image segmentation and sets the stage for a future where segmentation accuracy knows no bounds.
 
+# Architecture of MSA-Unet
+![image](https://github.com/YF-W/MSA-Unet/assets/66008255/9e652f1b-1f17-43e2-8223-66a48a914c0c)
+
+
 # Environment
 
 he program runs on a high-performance server, with Pytorch version no less than 1.13.0 and Python version 3.8.15.
