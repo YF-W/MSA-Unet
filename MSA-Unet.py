@@ -9,7 +9,7 @@ import torchvision
 """
 MSA-unet
 
-Author: Xiaoyan Guo
+Author: Xiaoyan Guo, Yuefei Wang
 Affiliation: Chengdu University
 For academic and research purposes only, not for commercial use.
 
